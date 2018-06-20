@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="660" started-at="2018-06-20T10:29:18Z" finished-at="2018-06-20T10:29:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="660" started-at="2018-06-20T10:29:18Z" finished-at="2018-06-20T10:29:18Z">
+      <class name="Basic.Basic.printing">
+        <test-method status="PASS" signature="before()[pri:0, instance:Basic.Basic.printing@281f23f2]" name="before" is-config="true" duration-ms="16" started-at="2018-06-20T15:59:18Z" finished-at="2018-06-20T15:59:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Basic.Basic.printing@281f23f2]" name="test" duration-ms="239" started-at="2018-06-20T15:59:18Z" finished-at="2018-06-20T15:59:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="after()[pri:0, instance:Basic.Basic.printing@281f23f2]" name="after" is-config="true" duration-ms="0" started-at="2018-06-20T15:59:18Z" finished-at="2018-06-20T15:59:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Basic.Basic.printing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
